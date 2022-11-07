@@ -33,6 +33,8 @@ Tips:
 
 # Entrega
 
+docker-compose --env-file .env up -d
+
 |grupo|integrantes|url del fork|
 |-----|-----------|------------|
 |Grupo Delta     |      Jocelyn Pardo - Andrea Calderon - Alejandra Levill - Omar Sosa - Jonathan Inostroza     |       https://github.com/mlevilll/Devops-2022-tarea-3.git     |
