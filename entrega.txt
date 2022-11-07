@@ -1,0 +1,6 @@
+Grupo Delta:	Jocelyn Pardo 
+		Andrea Calderon
+		Alejandra Levill
+		Omar Sosa
+		Jonathan Inostroza
+URL repo:	https://github.com/mlevilll/Devops-2022-tarea-3.git
